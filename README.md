@@ -4,13 +4,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1500&color=168BFF&center=true&vCenter=true&width=600&height=70&lines=Undefined+by+design..." alt="Undefined by design..." /><br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-080B12?style=for-the-badge&logo=openjdk&logoColor=168BFF" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-080B12?style=for-the-badge&logo=csharp&logoColor=168BFF" alt="C#" />
-  <img src="https://img.shields.io/badge/SQL-080B12?style=for-the-badge&logo=mysql&logoColor=168BFF" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-080B12?style=for-the-badge&logo=python&logoColor=168BFF" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-080B12?style=for-the-badge&logo=git&logoColor=168BFF" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-080B12?style=for-the-badge&logo=github&logoColor=168BFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-080B12?style=for-the-badge&logo=visualstudiocode&logoColor=168BFF" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Java-080B12?style=for-the-badge&logo=openjdk&logoColor=168BFF" alt="Java" style="border: 1px solid #168BFF; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/C%23-080B12?style=for-the-badge&logo=csharp&logoColor=168BFF" alt="C#" style="border: 1px solid #168BFF; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/SQL-080B12?style=for-the-badge&logo=mysql&logoColor=168BFF" alt="SQL" style="border: 1px solid #168BFF; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/Python-080B12?style=for-the-badge&logo=python&logoColor=168BFF" alt="Python" style="border: 1px solid #168BFF; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/Git-080B12?style=for-the-badge&logo=git&logoColor=168BFF" alt="Git" style="border: 1px solid #168BFF; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/GitHub-080B12?style=for-the-badge&logo=github&logoColor=168BFF" alt="GitHub" style="border: 1px solid #168BFF; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/VS_Code-080B12?style=for-the-badge&logo=visualstudiocode&logoColor=168BFF" alt="VS Code" style="border: 1px solid #168BFF; border-radius: 8px;" />
+</p>
+//img.shields.io/badge/VS_Code-080B12?style=for-the-badge&logo=visualstudiocode&logoColor=168BFF" alt="VS Code" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=belahss&show_icons=true&hide_border=false&border_color=168BFF&border_radius=12&bg_color=080B12&title_color=168BFF&icon_color=168BFF&text_color=C5D5F2&ring_color=168BFF" width="430" alt="GitHub Stats" />
