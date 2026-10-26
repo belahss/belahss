@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=belahss&show_icons=true&hide_border=false&border_color=168BFF&border_radius=12&bg_color=080B12&title_color=168BFF&icon_color=168BFF&text_color=C5D5F2&ring_color=168BFF" width="400" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=belahss&hide_border=false&background=080B12&border=168BFF&border_radius=12&stroke=168BFF&ring=168BFF&fire=168BFF&currStreakNum=C5D5F2&sideNums=C5D5F2&currStreakLabel=168BFF&sideLabels=168BFF&dates=8196B8" width="400" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=belahss&hide_border=false&background=080B12&border=168BFF&border_radius=12&stroke=168BFF&ring=168BFF&fire=168BFF&currStreakNum=C5D5F2&sideNums=C5D5F2&currStreakLabel=168BFF&sideLabels=168BFF&dates=8196B8" width="380" alt="GitHub Streak" />
 
 <br><br>
 
