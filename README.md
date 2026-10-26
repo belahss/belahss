@@ -15,8 +15,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=belahss&background=080B12&border=1677FF&stroke=1677FF&ring=1677FF&fire=3399FF&currStreakNum=C5D5F2&sideNums=C5D5F2&currStreakLabel=1677FF&sideLabels=1677FF&dates=8196B8" height="165" /><br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=belahss&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" /><br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=belahss&bg_color=080B12&color=1677FF&line=1677FF&point=59A6FF&area=true&area_color=102B55&hide_border=true" width="100%" /><br><br>
 
-<img src="https://raw.githubusercontent.com/belahss/belahss/output/github-contribution-grid-snake-dark.svg" width="100%" alt="" /></div>
+</div>
