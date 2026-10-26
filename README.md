@@ -18,6 +18,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belahss&layout=compact&hide_border=false&border_color=168BFF&border_radius=12&bg_color=080B12&title_color=168BFF&text_color=C5D5F2&langs_count=4" width="300" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belahss&layout=compact&hide_border=false&border_color=168BFF&border_radius=12&bg_color=080B12&title_color=168BFF&text_color=C5D5F2&langs_count=5" width="200" alt="Most Used Languages" />
 
 </div>
