@@ -1,5 +1,5 @@
 
-<div align="center"><img src="banner.gif.jpeg" width="100%" alt="" /><br><br>
+<div align="center"><img src="./banner.gif.jpeg" width="100%" alt="" /><br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1500&color=168BFF&center=true&vCenter=true&width=600&height=70&lines=Undefined+by+design..." alt="Undefined by design..." /><br><br>
 
