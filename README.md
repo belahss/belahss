@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/banner.gif" width="100%" alt="" /><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1500&color=1677FF&center=true&vCenter=true&width=600&height=70&lines=undefined+by+design." alt="undefined by design." /><br><br>
+<div align="center"><img src="./assets/banner.gif.jpeg" width="100%" alt="" /><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1500&color=1677FF&center=true&vCenter=true&width=600&height=70&lines=undefined+by+design." alt="undefined by design." /><br><br>
 
 <img src="https://img.shields.io/badge/Java-080B12?style=for-the-badge&logo=openjdk&logoColor=1677FF" />
 <img src="https://img.shields.io/badge/C%23-080B12?style=for-the-badge&logo=csharp&logoColor=1677FF" />
